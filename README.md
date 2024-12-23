@@ -11,6 +11,7 @@
 |Week N | 주제  | 제목 | wiki |
 |:--:|:--:|:--:|:--:|
 | 1 | SwiftUI| [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)| |
+| 2 | Generic | [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/) | |
 
 <br>
 
