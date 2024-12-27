@@ -11,7 +11,7 @@
 |Week N | 주제  | 제목 | wiki |
 |:--:|:--:|:--:|:--:|
 | 1 | SwiftUI| [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)| [wiki WEEK 1](https://github.com/TodayStudy-iOS/WWDC/wiki/%F0%9F%92%9C-%5BWEEK-1%5D-Introducing-SwiftUI:-Building-Your-First-App-%E2%80%90-20241223) |
-| 2 | Generic | [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/) | |
+| 2 | Generic | [Design protocol interfaces in Swift](https://developer.apple.com/wwdc22/110353) | |
 
 <br>
 
