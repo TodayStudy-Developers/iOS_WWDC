@@ -14,9 +14,3 @@
 | 2 | Generic | [Design protocol interfaces in Swift](https://developer.apple.com/wwdc22/110353) | |
 
 <br>
-
-## 🫥 스터디원
-| 권승용 | 김형석 | 김민송 |
-| :-------: | :--------: | :--------: |
-| <Img src = "https://avatars.githubusercontent.com/u/22342277?v=4"  width="200" height="200"> |  <Img src = "https://avatars.githubusercontent.com/u/102458207?v=4"  width="200" height="200"> | <Img src = "https://avatars.githubusercontent.com/u/124889931?v=4"  width="200" height="200"> |
-|[Github Profile](https://github.com/ericKwon95) | [Github Profile](https://github.com/NeoSelf1) | [Github Profile](https://github.com/mint3382) |
