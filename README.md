@@ -11,6 +11,6 @@
 |Week N | 주제  | 제목 | wiki |
 |:--:|:--:|:--:|:--:|
 | 1 | SwiftUI| [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)| [wiki WEEK 1](https://github.com/TodayStudy-iOS/WWDC/wiki/%F0%9F%92%9C-%5BWEEK-1%5D-Introducing-SwiftUI:-Building-Your-First-App-%E2%80%90-20241223) |
-| 2 | Generic | [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) | [wiki WEEK 2](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-2%5D--Creating-Swift-Packages-%E2%80%90-20250103) |
+| 2 | Package | [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410) | [wiki WEEK 2](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-2%5D--Creating-Swift-Packages-%E2%80%90-20250103) |
 
 <br>
