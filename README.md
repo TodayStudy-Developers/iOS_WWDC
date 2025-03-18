@@ -15,8 +15,8 @@
 | 3 | Memory | [Analyze heap memory](https://developer.apple.com/videos/play/wwdc2024/10173) | [wiki WEEK 3](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-3%5D-Analyze-heap-memory-%E2%80%90-20250109) |
 | 4 | Concurrency | [Meet async/await in Swift](https://developer.apple.com/kr/videos/play/wwdc2021/10132/) | [wiki WEEK 4](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-4%5D-Meet-async-await-in-Swift-%E2%80%90-20250124) |
 | 5 | Concurrency | [Meet AsyncSequence](https://developer.apple.com/videos/play/wwdc2021/10058) | [wiki WEEK 5](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-5%5D-Meet-AsyncSequence-%E2%80%90-20250207) |
-| 6 | Autolayout | [Mysteries of AutoLayout 1](https://www.youtube.com/watch?v=Qh0hydxLow4&pp=ygUSMjE4IHNkIGF1dG8gbGF5b3V0) | [wiki WEEK 6](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-6%5D-Mysteries-of-AutoLayout-%E2%80%90-20250214) |
-| 7 | Autolayout | [Mysteries of AutoLayout 2](https://www.youtube.com/watch?v=4W2ZwzErQKk&pp=ygUfbXlzdGVyaW91cyBvZiBhdXRvbGF5b3V0IHBhcnQgMg%3D%3D) | [wiki WEEK 7]() |
+| 6 | Autolayout | [Mysteries of AutoLayout 1](https://www.youtube.com/watch?v=Qh0hydxLow4&pp=ygUSMjE4IHNkIGF1dG8gbGF5b3V0) | [wiki WEEK 6](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-6,-7%5D-Mysteries-of-AutoLayout-%E2%80%90-20250214) |
+| 7 | Autolayout | [Mysteries of AutoLayout 2](https://www.youtube.com/watch?v=4W2ZwzErQKk&pp=ygUfbXlzdGVyaW91cyBvZiBhdXRvbGF5b3V0IHBhcnQgMg%3D%3D) | [wiki WEEK 7](https://github.com/TodayStudy-Developers/iOS_WWDC/wiki/%F0%9F%92%9C-%5BWEEK-6,-7%5D-Mysteries-of-AutoLayout-%E2%80%90-20250214) |
 | 8 | Build | [Demystify parallelization in Xcode builds](https://developer.apple.com/kr/videos/play/wwdc2022/110364/?time=1220) | [wiki WEEK 8]() |
 
 <br>
